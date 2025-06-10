@@ -4,7 +4,6 @@
 // Original author: Agustín Lantero Barreda (PhD Student of DAMIC-M)
 // Modified by: Aritz Lizoain
 // Github: https://github.com/aritzLizoain
-// My personal website: https://aritzlizoain.github.io/
 // Description: CNN Image Segmentation
 // Copyright 2020, Aritz Lizoain.
 // License: MIT License
