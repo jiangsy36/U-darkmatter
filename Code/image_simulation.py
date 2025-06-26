@@ -20,7 +20,7 @@ import numpy as np
 
 #############################################################################
 
-image_name='E:/客户项目/CNN-Image-Segmentation-master/Images/Train/'
+image_name='./CNN-Image-Segmentation-master/Images/Train/'
 SAVING_PATH='{0}'.format(image_name)
 print(SAVING_PATH)
 amountOfImages=60
